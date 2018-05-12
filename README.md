@@ -3,6 +3,11 @@
 The goal of this application is to find transformers which are overloaded and
 recommend the appropriate sized transformer.
 
+## TODO
+
+- Move the code to R Markup or Jupyter Notebook so we can show the charts.  T
+- The process / code samples here generates data which can be visualized.
+
 ## Requirements
 
 - kW ,Power Factor, abd/or kVA per hour (Intervals for one hour is the only supported data interval)
