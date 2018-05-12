@@ -507,7 +507,7 @@ The date the process was ran in local time of the database server.
 -- need mark up to show the math equation, for reference Equation 5, in IEEE Guid for Loading 
 -- Mineral-Oil-Immersed Trabsformers and Step-Voltage Regualtors
 
-## Interesting Quereies
+## Interesting Queries
 
 Below are a set of queries used to initital review the data to check for inconsistencies.
 
